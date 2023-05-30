@@ -6,7 +6,11 @@ This namespace will be further broken down into different parts for different gl
 
 ## Contact
 This space is administered by:
+
 **Andre Hui**
+
 Archivist
+
 National Archives of Singapore, National Library Board
+
 GitHub: [andre-hui](https://github.com/andre-hui)
